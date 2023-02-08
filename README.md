@@ -1,4 +1,4 @@
-# Energy forecasting 
+# Energy demand forecasting 
 
 Electrical energy demand is captuted from 2008 to 2018 for every hour.
 Forcesting of future demand helps to plan and allocate funds for the infrastructure.
